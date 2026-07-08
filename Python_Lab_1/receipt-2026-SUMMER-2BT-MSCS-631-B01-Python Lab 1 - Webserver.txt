@@ -1,0 +1,8 @@
+Your submission was successful!
+Course: 2026-SUMMER-2BT-MSCS-631-B01, 2026 Summer - Advanced Computer Networks (MSCS-631-B01) - Second Bi-term
+Assessment: Python Lab 1 - Webserver
+
+Submission date: 7/4/26, 2:22 PM (CDT)
+Submission size: 382.4 KB
+Submitter: Bikram Lamsal
+Confirmation number: 62f8a1df918243dd9fe0d9d6d39c2dfd
